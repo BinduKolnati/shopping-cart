@@ -1,0 +1,43 @@
+td,th {
+	font-family: monospace;
+	padding: 4px;
+	background-color: #ccc;
+}
+
+label {
+	vertical-align: top;
+}
+
+#main {
+	border: 1px dotted blue;
+	padding: 6px;
+	background-color: #ccc;
+	margin-right: 50%;
+}
+
+#items_table {
+	border: 1px dotted blue;
+	padding: 6px;
+	margin-top: 12px;
+	margin-right: 50%;
+}
+
+#items_table h3 {
+	font-size: 18px;
+	margin-top: 0px;
+	font-family: sans-serif;
+}
+body
+{
+width:100%;
+height:100%;
+}
+body
+{
+background-image:url('cart6.jpg');
+background-color:#cccccc;
+height:500px;
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
